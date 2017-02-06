@@ -1,15 +1,1 @@
-http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser
-
-http://www.encodedna.com/angularjs/tutorial/my-first-angularjs-application.htm
-
-https://scotch.io/tag/angular-js
-
-http://www.withoutbook.com/
-
-http://www.computerhope.com/
-
-https://www.siteground.com/tutorials/git/commands.htm
-
-http://blog.teamtreehouse.com/install-node-js-npm-windows
-
-https://try.github.io/levels/1/challenges/1
+the edited file in second   master  remote git sec
